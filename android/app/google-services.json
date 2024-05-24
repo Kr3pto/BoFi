@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560618246118",
+    "project_id": "authentication-eb01c",
+    "storage_bucket": "authentication-eb01c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560618246118:android:6a82ff82530835f35a9027",
+        "android_client_info": {
+          "package_name": "com.example.learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7WfZeaqoPSfV7N0ksNet3nUtM5-Ug8iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
